@@ -1,2 +1,5 @@
-# IPM
-Internet y Sistemas Distribuidos - UDC 2023
+# IPM - 2023
+
+Asignatura de Interfaces Persona Maquina 2023
+
+
